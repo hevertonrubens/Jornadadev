@@ -288,4 +288,11 @@ body {
     .awards-name {
         font-size: 18px;
     }
+
+    .exp-desc
+    .education-desc
+    .awards-desc{
+        font-size: 16px;
+        padding-left: 5px;
+    }
 }
